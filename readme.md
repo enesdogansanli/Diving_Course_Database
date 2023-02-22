@@ -1,8 +1,6 @@
-# Dalış Okulu Uygulaması
+# DALIŞ OKULU UYGULAMASI
 
-### Enes Doğan ŞALVARLI - 21501081
-### Önder GÖRMEZ - 21501035
-### Samet AVERBAK - 21501036
+### Enes Doğan ŞANLI - Önder GÖRMEZ - Samet AVERBAK
 
 ## ER Diyagramı
 
