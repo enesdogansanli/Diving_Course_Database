@@ -4,7 +4,7 @@
 
 ## ER Diyagramı
 
-![](images/ERDiagram.jpeg)
+![](images/ERDiagram.PNG)
 
 ## Veritabanındaki Tablolar
 
